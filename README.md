@@ -1,4 +1,4 @@
-# 12. JQuery Accordion
+# Accordion in JQuery
 ## Task 
 Each section of an accordion-menu opens by clicking on the plus-sign at the beginning of the section. 
 The opened section gets a minus instead of the plus-sign.
