@@ -1,5 +1,7 @@
 # Accordion in JQuery
 
+[Live Demo](https://felixwurst.github.io/jquery-accordion/)
+
 ### Exercise:
 
 The sections of an accordion menu should be opened by clicking on the plus sign at the beginning of each section.
